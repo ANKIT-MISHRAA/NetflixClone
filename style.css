@@ -222,7 +222,7 @@ footer .question{
 }
 
 
-@media screen and (max-width: 1024px)  {
+@media screen and (max-width: 720px)  {
 
   .faqbox{
     font-size: 13px;

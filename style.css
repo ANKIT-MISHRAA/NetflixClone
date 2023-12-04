@@ -286,4 +286,8 @@ footer .question{
   .question{
     text-align: center;
   }
+  .main input {
+  padding: 2px 15px;
+  font-size: 15px;
+  }
 }

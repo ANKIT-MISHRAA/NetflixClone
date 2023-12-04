@@ -253,7 +253,7 @@ footer .question{
   .hero > :nth-child(2) {
     font-size: 18px;
   }
-  .hero > :nth-child(2) {
+  .hero > :nth-child(3) {
     font-size: 13px;
   }
   nav{
@@ -276,6 +276,7 @@ footer .question{
     align-items: center;
     justify-content: center;
     gap: 4px;
+    padding: 20px;
   }
   .btn-red {
     padding: 2px 18px;
